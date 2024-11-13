@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sky-common (1)" />
+        <module name="sky-pojo (1)" />
+        <module name="sky-common (2)" />
+        <module name="springcache-demo" />
+        <module name="springcache-demo (1)" />
+        <module name="sky-common" />
+        <module name="sky-pojo (2)" />
+        <module name="sky-pojo" />
+        <module name="sky-server" />
+        <module name="sky-server (1)" />
+        <module name="sky-server (2)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sky-common" target="1.5" />
+      <module name="sky-common (1)" target="1.5" />
+      <module name="sky-common (2)" target="1.5" />
+      <module name="sky-pojo" target="1.5" />
+      <module name="sky-pojo (1)" target="1.5" />
+      <module name="sky-pojo (2)" target="1.5" />
+      <module name="sky-server" target="1.5" />
+      <module name="sky-server (1)" target="1.5" />
+      <module name="sky-server (2)" target="1.5" />
+      <module name="sky-take-out" target="1.5" />
+      <module name="sky-take-out (1)" target="1.5" />
+      <module name="sky-take-out (2)" target="1.5" />
+      <module name="springcache-demo" target="11" />
+      <module name="springcache-demo (1)" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
