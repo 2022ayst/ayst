@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/sky-take-out-main/资料/day01/后端初始工程/sky-take-out/sky-common/sky-common.iml" filepath="$PROJECT_DIR$/sky-take-out-main/资料/day01/后端初始工程/sky-take-out/sky-common/sky-common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sky-take-out-main/资料/day12/项目完整版代码/sky-take-out/sky-common/sky-common (1).iml" filepath="$PROJECT_DIR$/sky-take-out-main/资料/day12/项目完整版代码/sky-take-out/sky-common/sky-common (1).iml" />
-      <module fileurl="file://$PROJECT_DIR$/sky-take-out-main/sky-take-out/sky-common/sky-common (2).iml" filepath="$PROJECT_DIR$/sky-take-out-main/sky-take-out/sky-common/sky-common (2).iml" />
-      <module fileurl="file://$PROJECT_DIR$/sky-take-out-main/资料/day01/后端初始工程/sky-take-out/sky-pojo/sky-pojo.iml" filepath="$PROJECT_DIR$/sky-take-out-main/资料/day01/后端初始工程/sky-take-out/sky-pojo/sky-pojo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sky-take-out-main/资料/day12/项目完整版代码/sky-take-out/sky-pojo/sky-pojo (1).iml" filepath="$PROJECT_DIR$/sky-take-out-main/资料/day12/项目完整版代码/sky-take-out/sky-pojo/sky-pojo (1).iml" />
-      <module fileurl="file://$PROJECT_DIR$/sky-take-out-main/sky-take-out/sky-pojo/sky-pojo (2).iml" filepath="$PROJECT_DIR$/sky-take-out-main/sky-take-out/sky-pojo/sky-pojo (2).iml" />
-      <module fileurl="file://$PROJECT_DIR$/sky-take-out-main/资料/day01/后端初始工程/sky-take-out/sky-server/sky-server.iml" filepath="$PROJECT_DIR$/sky-take-out-main/资料/day01/后端初始工程/sky-take-out/sky-server/sky-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sky-take-out-main/资料/day12/项目完整版代码/sky-take-out/sky-server/sky-server (1).iml" filepath="$PROJECT_DIR$/sky-take-out-main/资料/day12/项目完整版代码/sky-take-out/sky-server/sky-server (1).iml" />
-      <module fileurl="file://$PROJECT_DIR$/sky-take-out-main/sky-take-out/sky-server/sky-server (2).iml" filepath="$PROJECT_DIR$/sky-take-out-main/sky-take-out/sky-server/sky-server (2).iml" />
-      <module fileurl="file://$PROJECT_DIR$/sky-take-out-main/资料/day01/后端初始工程/sky-take-out/sky-take-out.iml" filepath="$PROJECT_DIR$/sky-take-out-main/资料/day01/后端初始工程/sky-take-out/sky-take-out.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sky-take-out-main/资料/day12/项目完整版代码/sky-take-out/sky-take-out (1).iml" filepath="$PROJECT_DIR$/sky-take-out-main/资料/day12/项目完整版代码/sky-take-out/sky-take-out (1).iml" />
-      <module fileurl="file://$PROJECT_DIR$/sky-take-out-main/sky-take-out/sky-take-out (2).iml" filepath="$PROJECT_DIR$/sky-take-out-main/sky-take-out/sky-take-out (2).iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/sky-take-out-main.iml" filepath="$PROJECT_DIR$/.idea/sky-take-out-main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sky-take-out-main/资料/day07/springcache-demo/springcache-demo.iml" filepath="$PROJECT_DIR$/sky-take-out-main/资料/day07/springcache-demo/springcache-demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sky-take-out-main/springcache-demo/springcache-demo (1).iml" filepath="$PROJECT_DIR$/sky-take-out-main/springcache-demo/springcache-demo (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sky-take-out.iml" filepath="$PROJECT_DIR$/.idea/sky-take-out.iml" />
     </modules>
   </component>
 </project>
